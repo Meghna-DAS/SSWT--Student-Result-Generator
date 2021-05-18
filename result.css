@@ -1,0 +1,31 @@
+Body {  
+  font-family: Times New Roman, Times, serif;  
+  background-color: #FFA07A;  
+}  
+table {
+  width: 70%;
+  border: 2px solid;
+}
+
+th {
+  height: 70px;
+  text-align: left;
+  padding: 15px;
+  background-color: #f0e68c;
+  color: black;
+}
+
+td {
+  height: 70px;
+  text-align: left;
+  padding: 15px;
+  background-color: #f1f1f1;
+  color: black;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
