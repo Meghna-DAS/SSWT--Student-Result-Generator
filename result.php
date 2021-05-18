@@ -30,8 +30,8 @@
 
 			if( $flag==0 )
 			{
-				echo "<br>Incorrect Username or Password";
-				echo "<br><a href='login.html'>Login Page</a>";
+				echo "Incorrect Username or Password";
+				echo "<br><a href='login.html'>Go back to Login Page</a>";
 			}
 			else
 			{
